@@ -3,6 +3,6 @@
   "version": "2.0.0",
   "description": "Removes all spaces from a string",
   "license": "MIT",
-  "repository": "neilhuyton/test-package",
+  "repository": "git://github.com/neilhuyton/test-package",
   "main": "index.js"
 }
